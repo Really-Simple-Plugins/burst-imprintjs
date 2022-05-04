@@ -1,4 +1,3 @@
-@@ -1,100 +0,0 @@
 Forked from [ImprintJS](https://github.com/mattbrailsford/imprintjs) for use in Burst Satistics
 
 
